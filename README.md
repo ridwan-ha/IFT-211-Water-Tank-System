@@ -4,8 +4,7 @@ A digital logic system designed in Logisim Evolution for monitoring water level,
 
 ## Circuit file
 
-Open `IFT 211 Smart Water Tank Monitoring & Control System.circ` with Logisim Evolution.
-
+[Download the Logisim circuit](https://raw.githubusercontent.com/ridwan-ha/IFT-211-Water-Tank-System/main/IFT%20211%20Smart%20Water%20Tank%20Monitoring%20%26%20Control%20System.circ)
 ## Requirements
 
 - Logisim Evolution
