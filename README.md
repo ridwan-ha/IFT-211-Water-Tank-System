@@ -3,8 +3,7 @@
 A digital logic system designed in Logisim Evolution for monitoring water level, controlling a pump, displaying the detected level, and signaling when the tank has remained full for three clock cycles.
 
 ## Circuit file
-
-[Download the Logisim circuit](https://raw.githubusercontent.com/ridwan-ha/IFT-211-Water-Tank-System/main/IFT%20211%20Smart%20Water%20Tank%20Monitoring%20%26%20Control%20System.circ)
+[Download the Logisim circuit](https://github.com/ridwan-ha/IFT-211-Water-Tank-System/blob/main/IFT%20211%20Smart%20Water%20Tank%20Monitoring%20%26%20Control%20System.circ)
 ## Requirements
 
 - Logisim Evolution
